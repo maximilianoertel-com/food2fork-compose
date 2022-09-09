@@ -20,7 +20,7 @@ android {
     compileSdkVersion Versions.compileSdk
 
     defaultConfig {
-        applicationId "com.codingwithmitch.food2forkcompose"
+        applicationId "com.fitfood.food2forkcompose"
         minSdkVersion Versions.minSdk
         targetSdkVersion Versions.targetSdk
         versionCode Versions.versionCode

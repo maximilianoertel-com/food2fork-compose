@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Fit Food Recipes</string>
+    <string name="app_name">Fit Food</string>
 
     <string name="dismiss">DISMISS</string>
     <string name="feature_not_available">That feature is not available</string>
